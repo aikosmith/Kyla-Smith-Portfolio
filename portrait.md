@@ -1,0 +1,4 @@
+---
+layout: portrait
+permalink: /portrait/
+---
